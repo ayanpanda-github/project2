@@ -1,0 +1,8 @@
+# contains MongoDB connection string
+url.js
+
+# macOS feature that contains custom attributes of folders
+.DS_Store
+
+# contains all necessary node dependencies
+node_modules/
