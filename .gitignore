@@ -6,3 +6,5 @@ url.js
 
 # contains all necessary node dependencies
 node_modules/
+
+README.md
